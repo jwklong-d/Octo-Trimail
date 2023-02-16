@@ -2,4 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Notice from Phurcase Japan78</title>
     <subtitle>Infomation Source blogspot.</subtitle>
+    <id>https://jwklong-d.github.io/Octo-Trimail/</id>
+    <updated>2023-02-16T11:24:00-08:00</updated>
+    <author>
+         <name>jwklong-d</name>
+    </author>
+    <rights>Copyright (c) 2023 jwklong-d</rights>
+    <category term="Notices"/>
+    <entry>
+        <title>The Notice</title>
+        <link rel="alternate" href="https://jwklong-d.github.io/Octo-Trimail/"/>
+        <id>https://jwklong-d.github.io/Octo-Trimail/</id>
+        <updated>2023-02-16T11:24:00-08:00</updated>
+        <summary type="html">&lt;h2&gt;Hello, ot notice &lt;a href="https://phurcase-japan78.blogspot.com/"&gt;now&lt;/a&gt;.&lt;/h2&gt;</summary>
+        <author>
+         <name>jwklong-d</name>
+        </author>
+        <category term="Links"/>
+    </entry>
 </feed>
